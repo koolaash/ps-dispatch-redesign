@@ -1,11 +1,15 @@
 # PS Dispatch
 
 ## Long Notifications
+- Blue
 <img src="./assets/disp-blue.png" width="600">
+- Red
 <img src="./assets/disp-red.png" width="600">
 
 ## Dispatch Menu
+- Blue
 <img src="./assets/disp-blue-menu.png" width="600">
+- Red
 <img src="./assets/disp-red-menu.png" width="600">
 
 Integrated with [ps-mdt](https://github.com/Project-Sloth/ps-mdt)
